@@ -3,7 +3,7 @@
 ||----------------------------------------------||
 ||  <name> Bùi Khôi </name>			||
 || 	<phone> 0869.20.851 </phone>		||
-|| 	<mail> bkkhoi1800151@gmail.com </mail>	||
+|| 	<mail> bkkhoi1800151@student.ctuet.edu.vn </mail>	||
 ||  <facebook> facebook.com/bkk0711 </facebook>	||
 ||----------------------------------------------||
 */
